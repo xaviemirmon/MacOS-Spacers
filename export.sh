@@ -3,5 +3,5 @@
 
 echo "Zippoing up files"
 
-zip Export/Dots.zip Dots
-zip Export/Dots\ -\ Dark\ Mode.zip Dots\ -\ Dark\ Mode/
+zip Export/dots.zip Dots
+zip Export/dots-dark_mode.zip Dots\ -\ Dark\ Mode/
